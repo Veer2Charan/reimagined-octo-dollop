@@ -1,0 +1,25 @@
+#bedroom {
+    width: 200px;
+    text-align: center;
+    
+}
+#tv{
+    box-shadow: 10px, 10px yellow;
+   width: 200px;
+    text-align: center;
+}
+#desk{
+    box-shadow: 10px, 10px red;
+   width: 200px;
+    text-align: center;
+}
+#bottles{
+    box-shadow: 10px, 10px azure;
+   width: 200px;
+    text-align: center;
+}
+#fruits{
+    box-shadow: 10px, 10px rebeccapurple;
+    width: 200px;
+    text-align: center;
+}
